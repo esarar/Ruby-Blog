@@ -1,6 +1,6 @@
 # README
 
-I am new at Ruby. This is my first and basic Ruby on rails blog app. This contains less component than a normal ones. There is no time for me to develop the blog properly. I can add much more components like Authentication, API and stuff like that. I hope it gave you and idea of what could be done. Still working on ruby and ruby on rails. Have a good day. 
+I am new at Ruby. This is my first and basic Ruby on rails blog app. This app contains fewer components than normal ones. There is no time for me to develop the blog properly. I can add much more components like Authentication, API and stuff like that. I hope it gave you and idea of what could be done. Still working on ruby and ruby on rails. Have a good day. 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
